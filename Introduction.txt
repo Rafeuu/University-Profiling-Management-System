@@ -1,3 +1,0 @@
-Welcome to my simple University Proling Management System.
-
-Thank you for reading.
